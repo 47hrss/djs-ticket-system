@@ -1,0 +1,11 @@
+{
+    "Token": "",
+    "MySQL": {
+        "AutoCreateMissingTables": true,
+        "Password": "",
+        "Database": "",
+        "User": "",
+        "Port": 3306,
+        "Host": "localhost"
+    }
+}
